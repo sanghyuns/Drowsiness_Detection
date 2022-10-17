@@ -23,6 +23,8 @@ My last model, a much more complicated sequential model than my first,
 
 ## Conclusions
 
+It seems like my first, less complicated sequential model performed the best. It is important to note that the number of epochs ran was not equal, and performance peaked at various times in each model.
+
 ## Recommendations
 
 There are no recommendations that the model can produce, given the nature of our problem statement, but the National Highway Traffic Safety Administration offers these tips to drive alert:
