@@ -19,7 +19,7 @@ My first model was able to predict the condition of the participant at an averag
 
 My next model used Transfer Learning. The transfer learning approach takes a pre-trained model and uses it to potentially improve the accuracy of the model. To put it simply, instead of adding layers of the model ourselves, we are able to use a model with layers already added in it. I decided to use Efficient Net, as we discussed in class and the model came back with an accuracy rate of around 57%. Although the accuracy rate seemed to have decreased slightly, the validation loss decreased significantly to around 1.02. This model was unfortunately overfit as well, with the training accuracy sitting around 99.83%.
 
-My last model, a much more complicated sequential model than my first, 
+My last model, a much more complicated sequential model than my first, was also overfit. It had a training accuracy of 99.79%, but a validation accuracy just over 60%.
 
 ## Conclusions
 
